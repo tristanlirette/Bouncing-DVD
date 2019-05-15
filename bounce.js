@@ -19,8 +19,8 @@ var x = 0;
 var fwdX = false;
 var fwdY = true;
 
-var fps = 60;
-var speed = 1;
+var fps = 120;
+var speed = 2;
 
 var then = Date.now();
 var now, elapsed;
