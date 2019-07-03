@@ -1,4 +1,7 @@
 # Bouncing-Logo
+
+View deployment at http://dvd.crabdance.com
+
 The DVD logo bouncing on the sides of the screen, just because
 
 The DVD logo is in the public domain and, accordingly, free of copyright restrictions.
