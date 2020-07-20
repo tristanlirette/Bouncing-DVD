@@ -55,8 +55,6 @@ function updateCoordinates() {
     if((y == 0) || (y == maxY)) {
         fwdY = !fwdY;
     }
-    //Since the image can only hit one wall per those two previous conditions at the same time, the
-    // direction will be reversed two times when two walls are hit, making the angle change by 180 degrees.
 
     //Incrementing or decrementing both x and y depending on the direction of the image in both axis
     if(fwdX)
